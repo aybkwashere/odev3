@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nefis Tarifler</title>
+</head>
+    
+
+<body>
+    <h1>İzmir Bombası</h1>
+    <p>
+        <b><i> Yalnızca altı malzeme içeren nefis bir tatlı.. Herkesin kolaylıkla yapabileceği bir tarif.</i></b>
+    </p>
+    <p>
+        <b> Tarif:</b> Nefis yemek tarifleri
+    </p>
+
+    <hr width="600" align="left" >
+
+    <!-- Tarifle ilgili resim ve video koydum -->
+
+    <img src="https://www.refikaninmutfagi.com/wp-content/uploads/2019/07/CY5A3659.jpg" alt="İzmir bombası" width="300"> 
+
+    <iframe width="300" height="169" src="https://www.youtube.com/embed/vsFOp7fDwnQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+    </iframe>
+
+   
+    <br> <br>
+
+    <!-- Tarif hakkında kısa bilgi -->
+   
+       <i>Kaç kişilik:</i> 6-8 <br>  <i>Hazırlık:</i>30 dk <br>  <i>Süre:</i>5 dk
+
+    <!-- Malzemeler ve tarif kısmı -->
+
+        <h2>
+          <i> Malzemler:</i>
+        </h2>
+        <h3><i> Hamuru için;</i></h3>
+        <ul>
+            <li>Yarım su bardağı ılık su</li>
+            <li>Yarım çay bardağından az sıvı yağ</li>
+            <li>1 yemek kaşığı şeker</li>
+            <li>1 paket vanilya</li>
+            <li>1,5 su bardağı un (gerekirse 1-2 kaşık daha eklenebilir)</li>
+        </ul>
+
+        <h3><i> İçi için;</i></h3>
+
+        <ul>
+            <li>
+                Sürülebilir çikolata
+            </li>
+        </ul>
+        <div>
+
+        <h2><i> İzmir Bombası Tarifi Anlatımı ve Detaylarıyla Nasıl Yapılır?</i></h2>
+
+        <ol id="tarif">
+            <li>Tatlımızın hamuru için; derin bir kabın içerisine suyu, sıvı yağı, şekeri, vanilyayı alalım. <br> 
+            Unu da hamurumuz ele yapışmayacak bir kıvam alana kadar yavaş yavaş ekleyelim ve karıştırıp, yoğuralım.</li> <br>
+            <li>Kıvam alan hamurumuzun üzerini streç film ile kapatalım ve 20 dakika kadar dinlenmeye bırakalım.</li><br>
+            <li>Hamurumuza şekil verme aşamasına geçmeden önce, fırınımızı en yüksek derecede alt-üst ayarında çalıştıralım.</li><br>
+            <li>Dinlenen hamurumuzu tezgaha alalım ve elimizle rulo şekli verelim.</li><br>
+            <li>Daha sonra hamur kesme aparatı ya da bıçak yardımı ile hamurumuzu 18 parçaya ayıralım ve küçük küçük bezeler haline getirelim.</li><br>
+            <li>Hazırladığımız bezelerden bir tanesini alalım, elimiz ile bastırarak hafifçe genişletelim.</li><br>
+            <li>Daha sonra oklava yardımı ile hamurumuzu ince bir şekilde açalım. Hamur yağlı olduğu için açma işlemini zorlanmadan,<br> kolayca yapabilirsiniz.</li><br>
+            <li>Açtığımız hamurun ortasına kakaolu fındık kremasından kaşık ile koyalım ve bohça şeklinde kapatalım.</li><br>
+            <li>Hamuru açıklık kalmayacak şekilde kapatalım, fazla gelen kısım olur ise makas yardımı ile keselim.</li><br>
+            <li>Fırın tepsimize pişirme kağıdını yerleştirelim. Hamurun tepsiye yapışmaması ve tepsinin kirlenmemesi için tercih ediyorum.</li><br>
+            <li>Hazırladığımız İzmir bombamızı topladığımız kısım alta gelecek şekilde, pişirme kağıdı serdiğimiz fırın tepsisine alalım. <br>
+             Tüm bezelerimiz bitene kadar, sırası ile aynı işlemi uygulayalım.</li><br>
+            <li>Ben iki tepside pişirdim, birbirine çok yakın yerleştirmemenizi ve şekillendirme kısmını hızlıca yapmanızı öneririm, <br> çünkü bekledikçe hamur genişliyor.</li><br>
+            <li>Tatlımızı fırına sürelim ve fırınımızın ayarını 220°C’ye düşürelim, fanlı olarak pişirelim. <br> 
+            Pişirme işlemini fırının başından ayrılmadan, dikkatli bir şekilde pişirmelisiniz. Tatlımız 5-6 dakika içerisinde pişecektir.</li><br>
+            <li>İlk sıcağı çıkan İzmir bombalarını, servis tabağına alarak dilediğiniz gibi servis edebilirsiniz.</li>
+        </ol>
+   
+
+</body>
+        </div>
+
+<footer>
+    <h3 >
+        Afiyet olsun...
+    </h3>
+  
+</footer>
+</html>
